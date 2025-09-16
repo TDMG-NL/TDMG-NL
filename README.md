@@ -1,8 +1,6 @@
 # Semester 3 Full Stack Development student
 
-Ik ben momenteel bezig met het leren en werken met verschillende programmeertalen en tools.  
-Hieronder een overzicht van waar ik me nu op focus:
----
+ik werk en leer met verschillende talen/tools. Hieronder een overzicht:
 
 ## Skills & Tools
 
