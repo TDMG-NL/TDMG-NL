@@ -1,6 +1,8 @@
-# AD Full Stack Development Afstuderende student
+# AD Software Degree
 
-ik werk en leer met verschillende talen/tools. Hieronder een overzicht:
+## Currently working on:
+
+Right now i work as a contributor for the game "Quaver"
 
 ## Skills & Tools
 
